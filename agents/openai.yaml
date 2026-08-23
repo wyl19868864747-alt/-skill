@@ -1,0 +1,13 @@
+interface:
+  display_name: 林枫生图
+  short_description: 检索视觉灵感并锁定人物、商品与参考图，生成稳定可控的高质量图片
+  default_prompt: 使用 $linfeng-image-prompt 按需检索图片灵感，锁定人物、商品与参考图约束，生成可直接执行的图片方案。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
