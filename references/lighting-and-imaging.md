@@ -1,5 +1,7 @@
 # 光影与成像｜Optional Support Layer
 
+写实/实拍/照片级图片必须先经过 `../realistic-portrait-photography/SKILL.md` 的轻量摄影真实感Gate；本文件只处理更深入的摄影布光、材质或画质返修。常驻判断光源因果≠自动给普通图片增加复杂布光字段。
+
 ## 何时使用
 
 光影是**按需加分层，不是普通生图Prompt的固定字段**。
